@@ -73,7 +73,7 @@ Matplotlib · Seaborn · Plotly · Streamlit
 
 ## 👤 Author
 
-**Akshayaa V. Kumar**
+**Akshaya Vinod Kumar**
 Marine Biologist & Data Science Practitioner
 
 HCL GUVI - Data Science with ML \& AI Certification
