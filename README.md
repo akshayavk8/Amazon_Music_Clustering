@@ -1,11 +1,11 @@
 # 🎵 Amazon Music Clustering
 
-Unsupervised clustering of songs by audio characteristics — grouping \~96,000 tracks into
+Unsupervised clustering of songs by audio characteristics - grouping \~96,000 tracks into
 meaningful mood/genre clusters **without using any genre labels**, using K-Means on
 audio features (danceability, energy, acousticness, tempo, etc.), with k selected via
 the Elbow Method and Silhouette Score.
 
-🔗 [**Live Demo**](https://amazonmusicclustering-adudeadnd9e2zzftjvfn5x.streamlit.app/) — interactive Streamlit app
+🔗 [**Live Demo**](https://amazonmusicclustering-adudeadnd9e2zzftjvfn5x.streamlit.app/) - interactive Streamlit app
 
 \---
 
@@ -74,8 +74,8 @@ Matplotlib · Seaborn · Plotly · Streamlit
 ## 👤 Author
 
 **Akshayaa V. Kumar**
-Marine Biologist \& Data Science Practitioner
-HCL GUVI — Data Science with ML \& AI Certification
+Marine Biologist & Data Science Practitioner
+HCL GUVI - Data Science with ML \& AI Certification
 
 [GitHub](https://github.com/akshayavk8) · [LinkedIn](https://linkedin.com/in/akshayavinodkumar)
 
