@@ -37,6 +37,7 @@ Full methodology and charts are in the notebook: [`AmazonMusicClustering.ipynb`]
 ```
 Amazon_Music_Clustering/
 |-> AmazonMusicClustering.ipynb             # full pipeline: EDA -> preprocessing -> K-Means -> evaluation -> export
+|-> Amazon_Music_Clustering_Report.docx     # project report
 |-> single_genre_artists.csv                # raw input dataset (95,837 songs)
 |-> amazon_music_clustered_output.csv       # final output
 |-> streamlit_app.py                        # Streamlit app
