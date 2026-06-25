@@ -1,6 +1,5 @@
 """
 Amazon Music Clustering — Streamlit Explorer
-Author: Akshayaa V. Kumar | HCL GUVI Data Science Capstone
 """
 import os
 import streamlit as st
@@ -167,4 +166,3 @@ with tab4:
                      use_container_width=True)
 
 st.divider()
-st.caption("Akshayaa V. Kumar — Marine Biologist & Data Science Practitioner | HCL GUVI Data Science with ML & AI Certification")
